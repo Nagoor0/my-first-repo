@@ -1,0 +1,4 @@
+name:debug enviromnment
+run
+|
+echo"h1"
